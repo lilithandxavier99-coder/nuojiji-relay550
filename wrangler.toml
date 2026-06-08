@@ -1,4 +1,4 @@
-name = "nuojiji-relay550"
+name = "nuojiji-relay555"
 main = "worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
